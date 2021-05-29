@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyternotebook/jupyternotebook-original-wordmark.svg" alt="jupyternotebook" width="40" height="40"/> </a> 
+    <img src="https://miro.medium.com/max/750/1*XEzukXOEUudcXkyrouu3vw.jpeg" alt="jupyternotebook" width="40" height="40"/> </a> 
    
    <a href="https://www.w3schools.com/javascript/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original-wordmark.svg" alt="javascript" width="40" height="40"/> </a> 
+    <img src="https://res.cloudinary.com/teepublic/image/private/s--bZwGEjXl--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1539274051/production/designs/3302114_0.jpg" alt="javascript" width="40" height="40"/> </a> 
    
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>

@@ -33,11 +33,16 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://" target="_blank"> 
-    <img src="https://miro.medium.com/max/750/1*XEzukXOEUudcXkyrouu3vw.jpeg" alt="jupyternotebook" width="40" height="40"/> </a> 
+      
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+   
+   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
    
    <a href="https://www.w3schools.com/javascript/" target="_blank"> 
     <img src="https://res.cloudinary.com/teepublic/image/private/s--bZwGEjXl--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1539274051/production/designs/3302114_0.jpg" alt="javascript" width="40" height="40"/> </a> 
+   
+   <a href="https://" target="_blank"> 
+    <img src="https://miro.medium.com/max/750/1*XEzukXOEUudcXkyrouu3vw.jpeg" alt="jupyternotebook" width="40" height="40"/> </a>
    
   <a href="https://www.w3schools.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -45,9 +50,9 @@ Here are some ideas to get you started:
    <a href="https://www.w3schools.com/php/" target="_blank"> 
     <img src="https://webmentor.org/blog_images/php-logo.png" alt="php" width="40" height="40"/> </a>
    
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-   
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+  
+
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jagannath8&show_icons=true&locale=en&layout=compact" alt="Jagannath8" /></p>
 

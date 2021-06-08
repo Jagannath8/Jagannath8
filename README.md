@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently pursuing my BTech in the domain of CSE in GIET , Gunupur
 
-- 🌱 I’m currently learning *Data  and Machine Learning*
+- 🌱 I’m currently learning *Data Science and Machine Learning*
 
 - 📫 Contact me through :<br>
    LinkedIn - <a href="https://www.linkedin.com/in/jagannath-pal-a26403178/" target="_blank"> Click here </a><br>

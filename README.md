@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="" src ="https://img.shields.io/badge/%20-%2304599C.svg?&style=for-the-badge&logo=&logoColor=white" style="margin:2px;"/>
+<img alt="Python" src ="https://img.shields.io/badge/python%20-%2304599C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
 <img alt="Jupyter" src ="https://img.shields.io/badge/jupyter%20-%23E05000.svg?&style=for-the-badge&logo=jupyter&logoColor=white" style="margin:2px;"/>
 
    

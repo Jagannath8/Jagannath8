@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagannath8" alt="Jagannath8" /></a> </p>
 
 
-- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET University, Gunupur
+- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET , Gunupur
 
-- 🌱 I’m currently learning *Data Science and Machine Learning*
+- 🌱 I’m currently learning *Data  and Machine Learning*
 
 - 📫 Contact me through :<br>
    LinkedIn - <a href="https://www.linkedin.com/in/jagannath-pal-a26403178/" target="_blank"> Click here </a><br>
@@ -58,4 +58,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jagannath8&show_icons=true&locale=en" alt="Jagannath8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath8&" alt="Jagannath8" /></p>

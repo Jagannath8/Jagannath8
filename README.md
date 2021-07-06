@@ -66,10 +66,6 @@ Here are some ideas to get you started:
 
 
 
-
-[![Jagannath's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jagannath8&bg_color=000000&color=FFFFFF&line=FFFFFF&point=00FF00)](https://github.com/Jagannath8/github-readme-activity-graph)
-
-
 <!-- 
 <div align="center">
   

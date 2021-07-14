@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET , Gunupur
 
-- 🌱 I’m currently learning *Data  and Machine Learning*
+- 🌱 I’m currently learning *Data Science and Machine Learning*
 
 
 ## 📫 Contact me through :<br>

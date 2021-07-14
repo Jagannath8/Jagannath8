@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagannath8" alt="Jagannath8" /></a> </p>
 
 
-- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET , Gunupur
+- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET University, Gunupur.
 
-- 🌱 I’m currently learning *Data Science and Machine Learning*
+- 🌱 I’m currently learning *Data Science and Machine Learning*.
 
 
 ## 📫 Contact me through :<br>

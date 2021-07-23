@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jagannath Pal</h1>
-<h3 align="center">A passionate frontend developer from India </h3>
+<h3 align="center">A passionate frontend developer from India. </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagannath8" alt="Jagannath8" /></a> </p>
 
 
-- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET University, Gunupur.
+- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET , Gunupur.
 
-- 🌱 I’m currently learning *Data Science and Machine Learning*.
+- 🌱 I’m currently learning *Data  and Machine Learning*.
 
 
 ## 📫 Contact me through :<br>

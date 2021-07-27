@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 
 ## 📫 Contact me through :<br>
+[<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UC196cZJxnMFN2wb_yMW1igQ)
 [<img src="https://img.shields.io/badge/Github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/Jagannath8)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jagannath9611@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jagannath-pal-a26403178/)
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://nilisha-jais.github.io/portfolio/) -->
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/_jagannath_08/)
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="" src ="https://img.shields.io/badge/%20-%2304599C.svg?&style=for-the-badge&logo=&logoColor=white" style="margin:2px;"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python%20-%2304599C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
 <img alt="Jupyter" src ="https://img.shields.io/badge/jupyter%20-%23E05000.svg?&style=for-the-badge&logo=jupyter&logoColor=white" style="margin:2px;"/>
 
    
@@ -64,10 +64,12 @@ Here are some ideas to get you started:
 
 <p><img align='center' src="https://github-readme-stats.vercel.app/api?username=Jagannath8&&show_icons=true&theme=dark&locale=en&layout=compact" width="48%" align="right" ></p>
 
-
+<div> 
+<img src="https://activity-graph.herokuapp.com/graph?username=Jagannath8&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
+</div>
 
 <!-- 
 <div align="center">
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nilisha-jais.nilisha-jais)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Jagannath8)
 </div> -->

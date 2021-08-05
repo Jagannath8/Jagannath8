@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagannath8" alt="Jagannath8" /></a> </p>
 
 
-- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET University, Gunupur.
+- 🔭 I am currently pursuing my B.Tech in the domain of CSE in GIET , Gunupur.
 
-- 🌱 I’m currently learning *Data Science and Machine Learning*.
+- 🌱 I’m currently learning *Data  and Machine Learning*.
 
 
 ## 📫 Contact me through :<br>
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jagannath9611@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jagannath-pal-a26403178/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">](https://www.instagram.com/_jagannath_08/)
+[<img src="https://img.shields.io/badge/facebook-%230055B5.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/jagannath.08/)
+
 
 
 

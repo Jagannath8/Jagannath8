@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
 <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" style="margin:2px;"/>
 <img alt="PHP" src="https://img.shields.io/badge/php%20-%2320232a.svg?&style=for-the-badge&logo=php&logoColor=%2365DAFB" style="margin:2px;"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
+<img alt="Java" src="https://img.shields.io/badge/java%20-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 <img alt="Python" src ="https://img.shields.io/badge/python%20-%2304599C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>

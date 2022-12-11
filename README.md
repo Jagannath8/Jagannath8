@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br/>
-<img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23F05033.svg?&style=for-the-badge&logo=HTML&logoColor=white" style="margin:2px;"/>
+<img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23F05033.svg?&style=for-the-badge&logo=HTML5&logoColor=white" style="margin:2px;"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
@@ -50,8 +50,10 @@ Here are some ideas to get you started:
 <img alt="Java" src="https://img.shields.io/badge/java%20-%234ea94b.svg?&style=for-the-badge&logo=java&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<img alt="Python" src ="https://img.shields.io/badge/python%20-%2304599C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
+<img alt="Python" src ="https://img.shields.io/badge/python%20-%2304599C.svg?&style=for-the-badge&logo=python&logoColor=yellow" style="margin:2px;"/>
 <img alt="Jupyter" src ="https://img.shields.io/badge/jupyter%20-%23E05000.svg?&style=for-the-badge&logo=jupyter&logoColor=white" style="margin:2px;"/>
+<img alt="Micrsoft Azure" src ="https://img.shields.io/badge/microsoftazure%20-1e90ff.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" style="margin:2px;"/>
+   
 
    
 <br/>

@@ -74,6 +74,8 @@ Here are some ideas to get you started:
 <img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=Jagannath8&theme=synthwave" />
 </p>
 
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jagannath8&bg_color=0000000&color=006e33&line=006e33&point=282a36&area_color=00c0a3&area=true&hide_border=true8&theme=synthwave)
+
 <!-- <div> 
 <img src="https://activity-graph.herokuapp.com/graph?username=Jagannath8&bg_color=FFFFFF&color=000000&line=000000&point=00FF00">
 </div> -->
